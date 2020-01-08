@@ -1,0 +1,4 @@
+/Users/guoyi/Documents/C++/myjson/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/guoyi/Documents/C++/myjson/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/guoyi/Documents/C++/myjson/cmake-build-debug/CMakeFiles/myjson.dir
+/Users/guoyi/Documents/C++/myjson/cmake-build-debug/CMakeFiles/json.dir

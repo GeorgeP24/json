@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/guoyi/Documents/C++/myjson/main.cpp
+stdio.h
+-
+stdlib.h
+-
+string
+-
+iostream
+-
+iostream
+-
+utility
+-
+vector
+-
+iterator
+-
+
